@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/himansh077/Leetcode-sol/tree/master/0102-binary-tree-level-order-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/himansh077/Leetcode-sol/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/himansh077/Leetcode-sol/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
