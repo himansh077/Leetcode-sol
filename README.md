@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0799-champagne-tower](https://github.com/himansh077/Leetcode-sol/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -54,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/himansh077/Leetcode-sol/tree/master/0696-count-binary-substrings) |
+## Array
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
