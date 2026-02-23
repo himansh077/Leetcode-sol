@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/himansh077/Leetcode-sol/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/himansh077/Leetcode-sol/tree/master/0278-first-bad-version) |
 | [0450-delete-node-in-a-bst](https://github.com/himansh077/Leetcode-sol/tree/master/0450-delete-node-in-a-bst) |
 ## Two Pointers
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/himansh077/Leetcode-sol/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
