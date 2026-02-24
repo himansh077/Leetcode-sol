@@ -1,16 +1,19 @@
 class Solution {
 public:
 
-    bool mirror(TreeNode* l, TreeNode* r){
-        if(l == NULL && r == NULL) return true;
-        if(l == NULL || r == NULL) return false;
+     bool isSameTree(TreeNode* p, TreeNode* q) {
+        if(p==NULL &&q==NULL)
+                return true;
         
-        return (l->val == r->val) &&
-               mirror(l->left, r->right) &&
-               mirror(l->right, r->left);
+        if(p==NULL || q==NULL)
+            return false;
+        if(p->val!=q->val)
+            return false;
+        return isSameTree(p->left, q->right)&&
+        isSameTree(p->right, q->left);
     }
 
     bool isSymmetric(TreeNode* root) {
-        return mirror(root->left, root->right);
+        return isSameTree(root->left, root->right);
     }
 };
