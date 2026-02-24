@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/himansh077/Leetcode-sol/tree/master/0035-search-insert-position) |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
+| [0697-degree-of-an-array](https://github.com/himansh077/Leetcode-sol/tree/master/0697-degree-of-an-array) |
 | [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/himansh077/Leetcode-sol/tree/master/0932-beautiful-array) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
+## Hash Table
+|  |
+| ------- |
+| [0697-degree-of-an-array](https://github.com/himansh077/Leetcode-sol/tree/master/0697-degree-of-an-array) |
 <!---LeetCode Topics End-->
