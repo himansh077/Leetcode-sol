@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/himansh077/Leetcode-sol/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/himansh077/Leetcode-sol/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/himansh077/Leetcode-sol/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himansh077/Leetcode-sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/himansh077/Leetcode-sol/tree/master/0905-sort-array-by-parity) |
 | [0932-beautiful-array](https://github.com/himansh077/Leetcode-sol/tree/master/0932-beautiful-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himansh077/Leetcode-sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himansh077/Leetcode-sol/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
 ## Math
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
 | [0905-sort-array-by-parity](https://github.com/himansh077/Leetcode-sol/tree/master/0905-sort-array-by-parity) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himansh077/Leetcode-sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himansh077/Leetcode-sol/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
 ## Quickselect
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0697-degree-of-an-array](https://github.com/himansh077/Leetcode-sol/tree/master/0697-degree-of-an-array) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himansh077/Leetcode-sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
