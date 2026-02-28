@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/himansh077/Leetcode-sol/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himansh077/Leetcode-sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/himansh077/Leetcode-sol/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/himansh077/Leetcode-sol/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/himansh077/Leetcode-sol/tree/master/0932-beautiful-array) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Game Theory
 |  |
 | ------- |
@@ -145,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/himansh077/Leetcode-sol/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
