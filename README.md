@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0696-count-binary-substrings](https://github.com/himansh077/Leetcode-sol/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/himansh077/Leetcode-sol/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Array
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
 ## Sorting
 |  |
