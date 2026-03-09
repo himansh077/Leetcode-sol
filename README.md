@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/himansh077/Leetcode-sol/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/himansh077/Leetcode-sol/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/himansh077/Leetcode-sol/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/himansh077/Leetcode-sol/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/himansh077/Leetcode-sol/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
