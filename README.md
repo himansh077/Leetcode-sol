@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/himansh077/Leetcode-sol/tree/master/0450-delete-node-in-a-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himansh077/Leetcode-sol/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/himansh077/Leetcode-sol/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/himansh077/Leetcode-sol/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
 | ------- |
@@ -181,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/himansh077/Leetcode-sol/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/himansh077/Leetcode-sol/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/himansh077/Leetcode-sol/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/himansh077/Leetcode-sol/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/himansh077/Leetcode-sol/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
