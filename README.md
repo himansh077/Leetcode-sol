@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/himansh077/Leetcode-sol/tree/master/0057-insert-interval) |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
 | [0697-degree-of-an-array](https://github.com/himansh077/Leetcode-sol/tree/master/0697-degree-of-an-array) |
+| [0874-walking-robot-simulation](https://github.com/himansh077/Leetcode-sol/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/himansh077/Leetcode-sol/tree/master/0905-sort-array-by-parity) |
 | [0932-beautiful-array](https://github.com/himansh077/Leetcode-sol/tree/master/0932-beautiful-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0697-degree-of-an-array](https://github.com/himansh077/Leetcode-sol/tree/master/0697-degree-of-an-array) |
+| [0874-walking-robot-simulation](https://github.com/himansh077/Leetcode-sol/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/himansh077/Leetcode-sol/tree/master/1980-find-unique-binary-string) |
 ## Counting
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/himansh077/Leetcode-sol/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/himansh077/Leetcode-sol/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/himansh077/Leetcode-sol/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
