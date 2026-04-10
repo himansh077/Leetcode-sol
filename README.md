@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/himansh077/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0045-jump-game-ii) |
 | [0799-champagne-tower](https://github.com/himansh077/Leetcode-sol/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/himansh077/Leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/himansh077/Leetcode-sol/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/himansh077/Leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/himansh077/Leetcode-sol/tree/master/0057-insert-interval) |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
 | [0697-degree-of-an-array](https://github.com/himansh077/Leetcode-sol/tree/master/0697-degree-of-an-array) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/himansh077/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0045-jump-game-ii) |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/himansh077/Leetcode-sol/tree/master/1727-largest-submatrix-with-rearrangements) |
