@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/himansh077/Leetcode-sol/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/himansh077/Leetcode-sol/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/himansh077/Leetcode-sol/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/himansh077/Leetcode-sol/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/himansh077/Leetcode-sol/tree/master/0057-insert-interval) |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
 | [0697-degree-of-an-array](https://github.com/himansh077/Leetcode-sol/tree/master/0697-degree-of-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/himansh077/Leetcode-sol/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/himansh077/Leetcode-sol/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/himansh077/Leetcode-sol/tree/master/0041-first-missing-positive) |
 | [0697-degree-of-an-array](https://github.com/himansh077/Leetcode-sol/tree/master/0697-degree-of-an-array) |
 | [0874-walking-robot-simulation](https://github.com/himansh077/Leetcode-sol/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/himansh077/Leetcode-sol/tree/master/1980-find-unique-binary-string) |
