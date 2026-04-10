@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0010-regular-expression-matching) |
 | [0799-champagne-tower](https://github.com/himansh077/Leetcode-sol/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/himansh077/Leetcode-sol/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0010-regular-expression-matching) |
 | [0696-count-binary-substrings](https://github.com/himansh077/Leetcode-sol/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/himansh077/Leetcode-sol/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himansh077/Leetcode-sol/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0010-regular-expression-matching) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/himansh077/Leetcode-sol/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Matrix
 |  |
