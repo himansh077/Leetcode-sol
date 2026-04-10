@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/himansh077/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0696-count-binary-substrings](https://github.com/himansh077/Leetcode-sol/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/himansh077/Leetcode-sol/tree/master/0905-sort-array-by-parity) |
 | [3643-flip-square-submatrix-vertically](https://github.com/himansh077/Leetcode-sol/tree/master/3643-flip-square-submatrix-vertically) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himansh077/Leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/himansh077/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/himansh077/Leetcode-sol/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/himansh077/Leetcode-sol/tree/master/0057-insert-interval) |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/himansh077/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/himansh077/Leetcode-sol/tree/master/1727-largest-submatrix-with-rearrangements) |
