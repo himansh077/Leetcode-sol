@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/himansh077/Leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/himansh077/Leetcode-sol/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/himansh077/Leetcode-sol/tree/master/0278-first-bad-version) |
 | [0450-delete-node-in-a-bst](https://github.com/himansh077/Leetcode-sol/tree/master/0450-delete-node-in-a-bst) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/himansh077/Leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/himansh077/Leetcode-sol/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/himansh077/Leetcode-sol/tree/master/0057-insert-interval) |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/himansh077/Leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
 | [0932-beautiful-array](https://github.com/himansh077/Leetcode-sol/tree/master/0932-beautiful-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/himansh077/Leetcode-sol/tree/master/3655-xor-after-range-multiplication-queries-ii) |
