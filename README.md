@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/himansh077/Leetcode-sol/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/himansh077/Leetcode-sol/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/himansh077/Leetcode-sol/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/himansh077/Leetcode-sol/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Array
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/himansh077/Leetcode-sol/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2906-construct-product-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/himansh077/Leetcode-sol/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/himansh077/Leetcode-sol/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
