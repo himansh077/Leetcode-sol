@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/himansh077/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0045-jump-game-ii) |
+| [0085-maximal-rectangle](https://github.com/himansh077/Leetcode-sol/tree/master/0085-maximal-rectangle) |
 | [0799-champagne-tower](https://github.com/himansh077/Leetcode-sol/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himansh077/Leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/himansh077/Leetcode-sol/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himansh077/Leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himansh077/Leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [2751-robot-collisions](https://github.com/himansh077/Leetcode-sol/tree/master/2751-robot-collisions) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/himansh077/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/himansh077/Leetcode-sol/tree/master/0057-insert-interval) |
+| [0085-maximal-rectangle](https://github.com/himansh077/Leetcode-sol/tree/master/0085-maximal-rectangle) |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
 | [0697-degree-of-an-array](https://github.com/himansh077/Leetcode-sol/tree/master/0697-degree-of-an-array) |
 | [0874-walking-robot-simulation](https://github.com/himansh077/Leetcode-sol/tree/master/0874-walking-robot-simulation) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/himansh077/Leetcode-sol/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/himansh077/Leetcode-sol/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/himansh077/Leetcode-sol/tree/master/0085-maximal-rectangle) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/himansh077/Leetcode-sol/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -320,4 +324,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himansh077/Leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/himansh077/Leetcode-sol/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
