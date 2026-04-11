@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/himansh077/Leetcode-sol/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1925-count-square-sum-triples](https://github.com/himansh077/Leetcode-sol/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/himansh077/Leetcode-sol/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himansh077/Leetcode-sol/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3433-count-mentions-per-user](https://github.com/himansh077/Leetcode-sol/tree/master/3433-count-mentions-per-user) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/himansh077/Leetcode-sol/tree/master/1925-count-square-sum-triples) |
 | [3546-equal-sum-grid-partition-i](https://github.com/himansh077/Leetcode-sol/tree/master/3546-equal-sum-grid-partition-i) |
 ## Linked List
 |  |
