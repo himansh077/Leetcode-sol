@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/himansh077/Leetcode-sol/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himansh077/Leetcode-sol/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/himansh077/Leetcode-sol/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himansh077/Leetcode-sol/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/himansh077/Leetcode-sol/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/himansh077/Leetcode-sol/tree/master/1980-find-unique-binary-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/himansh077/Leetcode-sol/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himansh077/Leetcode-sol/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/himansh077/Leetcode-sol/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2402-meeting-rooms-iii](https://github.com/himansh077/Leetcode-sol/tree/master/2402-meeting-rooms-iii) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
 | [2751-robot-collisions](https://github.com/himansh077/Leetcode-sol/tree/master/2751-robot-collisions) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/himansh077/Leetcode-sol/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/himansh077/Leetcode-sol/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/himansh077/Leetcode-sol/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himansh077/Leetcode-sol/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/himansh077/Leetcode-sol/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himansh077/Leetcode-sol/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2092-find-all-people-with-secret](https://github.com/himansh077/Leetcode-sol/tree/master/2092-find-all-people-with-secret) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/himansh077/Leetcode-sol/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2402-meeting-rooms-iii](https://github.com/himansh077/Leetcode-sol/tree/master/2402-meeting-rooms-iii) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
 | [2751-robot-collisions](https://github.com/himansh077/Leetcode-sol/tree/master/2751-robot-collisions) |
