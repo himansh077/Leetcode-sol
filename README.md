@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/himansh077/Leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/himansh077/Leetcode-sol/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/himansh077/Leetcode-sol/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/himansh077/Leetcode-sol/tree/master/0102-binary-tree-level-order-traversal) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/himansh077/Leetcode-sol/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/himansh077/Leetcode-sol/tree/master/0278-first-bad-version) |
 | [0450-delete-node-in-a-bst](https://github.com/himansh077/Leetcode-sol/tree/master/0450-delete-node-in-a-bst) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himansh077/Leetcode-sol/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himansh077/Leetcode-sol/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/himansh077/Leetcode-sol/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/himansh077/Leetcode-sol/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1980-find-unique-binary-string](https://github.com/himansh077/Leetcode-sol/tree/master/1980-find-unique-binary-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himansh077/Leetcode-sol/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/himansh077/Leetcode-sol/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/himansh077/Leetcode-sol/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2906-construct-product-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/himansh077/Leetcode-sol/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/himansh077/Leetcode-sol/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -294,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/himansh077/Leetcode-sol/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
