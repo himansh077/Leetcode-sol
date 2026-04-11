@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/himansh077/Leetcode-sol/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2092-find-all-people-with-secret](https://github.com/himansh077/Leetcode-sol/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/himansh077/Leetcode-sol/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/himansh077/Leetcode-sol/tree/master/0102-binary-tree-level-order-traversal) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2092-find-all-people-with-secret](https://github.com/himansh077/Leetcode-sol/tree/master/2092-find-all-people-with-secret) |
 ## Backtracking
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/himansh077/Leetcode-sol/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himansh077/Leetcode-sol/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2092-find-all-people-with-secret](https://github.com/himansh077/Leetcode-sol/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/himansh077/Leetcode-sol/tree/master/2402-meeting-rooms-iii) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
 | [2751-robot-collisions](https://github.com/himansh077/Leetcode-sol/tree/master/2751-robot-collisions) |
@@ -327,10 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2092-find-all-people-with-secret](https://github.com/himansh077/Leetcode-sol/tree/master/2092-find-all-people-with-secret) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/himansh077/Leetcode-sol/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/himansh077/Leetcode-sol/tree/master/2092-find-all-people-with-secret) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/himansh077/Leetcode-sol/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
