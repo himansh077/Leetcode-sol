@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/himansh077/Leetcode-sol/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/himansh077/Leetcode-sol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himansh077/Leetcode-sol/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himansh077/Leetcode-sol/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himansh077/Leetcode-sol/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3433-count-mentions-per-user](https://github.com/himansh077/Leetcode-sol/tree/master/3433-count-mentions-per-user) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/himansh077/Leetcode-sol/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himansh077/Leetcode-sol/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Game Theory
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/himansh077/Leetcode-sol/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/himansh077/Leetcode-sol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himansh077/Leetcode-sol/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himansh077/Leetcode-sol/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Counting
 |  |
 | ------- |
