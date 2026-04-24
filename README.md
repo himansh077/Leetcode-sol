@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/himansh077/Leetcode-sol/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/himansh077/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0044-wildcard-matching) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/himansh077/Leetcode-sol/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/himansh077/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/himansh077/Leetcode-sol/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/himansh077/Leetcode-sol/tree/master/0018-4sum) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/himansh077/Leetcode-sol/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/himansh077/Leetcode-sol/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0044-wildcard-matching) |
