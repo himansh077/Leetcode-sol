@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/himansh077/Leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/himansh077/Leetcode-sol/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/himansh077/Leetcode-sol/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/himansh077/Leetcode-sol/tree/master/2092-find-all-people-with-secret) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/himansh077/Leetcode-sol/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/himansh077/Leetcode-sol/tree/master/0102-binary-tree-level-order-traversal) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/himansh077/Leetcode-sol/tree/master/2092-find-all-people-with-secret) |
 ## Backtracking
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/himansh077/Leetcode-sol/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himansh077/Leetcode-sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/himansh077/Leetcode-sol/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/himansh077/Leetcode-sol/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/himansh077/Leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/himansh077/Leetcode-sol/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/himansh077/Leetcode-sol/tree/master/0840-magic-squares-in-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/himansh077/Leetcode-sol/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/himansh077/Leetcode-sol/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/himansh077/Leetcode-sol/tree/master/2092-find-all-people-with-secret) |
