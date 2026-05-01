@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/himansh077/Leetcode-sol/tree/master/0085-maximal-rectangle) |
+| [0396-rotate-function](https://github.com/himansh077/Leetcode-sol/tree/master/0396-rotate-function) |
 | [0799-champagne-tower](https://github.com/himansh077/Leetcode-sol/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/himansh077/Leetcode-sol/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/himansh077/Leetcode-sol/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/himansh077/Leetcode-sol/tree/master/0085-maximal-rectangle) |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
+| [0396-rotate-function](https://github.com/himansh077/Leetcode-sol/tree/master/0396-rotate-function) |
 | [0697-degree-of-an-array](https://github.com/himansh077/Leetcode-sol/tree/master/0697-degree-of-an-array) |
 | [0840-magic-squares-in-grid](https://github.com/himansh077/Leetcode-sol/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/himansh077/Leetcode-sol/tree/master/0874-walking-robot-simulation) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/0002-add-two-numbers) |
+| [0396-rotate-function](https://github.com/himansh077/Leetcode-sol/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/himansh077/Leetcode-sol/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/himansh077/Leetcode-sol/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
