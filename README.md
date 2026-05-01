@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/himansh077/Leetcode-sol/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/himansh077/Leetcode-sol/tree/master/0278-first-bad-version) |
 | [0450-delete-node-in-a-bst](https://github.com/himansh077/Leetcode-sol/tree/master/0450-delete-node-in-a-bst) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/himansh077/Leetcode-sol/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/himansh077/Leetcode-sol/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himansh077/Leetcode-sol/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/himansh077/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0696-count-binary-substrings](https://github.com/himansh077/Leetcode-sol/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/himansh077/Leetcode-sol/tree/master/0905-sort-array-by-parity) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/himansh077/Leetcode-sol/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/himansh077/Leetcode-sol/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/himansh077/Leetcode-sol/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/himansh077/Leetcode-sol/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/himansh077/Leetcode-sol/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/himansh077/Leetcode-sol/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/himansh077/Leetcode-sol/tree/master/1970-last-day-where-you-can-still-cross) |
