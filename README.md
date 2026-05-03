@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0044-wildcard-matching) |
 | [0696-count-binary-substrings](https://github.com/himansh077/Leetcode-sol/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/0756-pyramid-transition-matrix) |
+| [0796-rotate-string](https://github.com/himansh077/Leetcode-sol/tree/master/0796-rotate-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/himansh077/Leetcode-sol/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/himansh077/Leetcode-sol/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -467,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/himansh077/Leetcode-sol/tree/master/2452-words-within-two-edits-of-dictionary) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/himansh077/Leetcode-sol/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
