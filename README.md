@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/himansh077/Leetcode-sol/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/himansh077/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/himansh077/Leetcode-sol/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/himansh077/Leetcode-sol/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/himansh077/Leetcode-sol/tree/master/0085-maximal-rectangle) |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/himansh077/Leetcode-sol/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/himansh077/Leetcode-sol/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/himansh077/Leetcode-sol/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/himansh077/Leetcode-sol/tree/master/0788-rotated-digits) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/himansh077/Leetcode-sol/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/himansh077/Leetcode-sol/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/himansh077/Leetcode-sol/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/himansh077/Leetcode-sol/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/himansh077/Leetcode-sol/tree/master/0840-magic-squares-in-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
