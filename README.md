@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
 | [2751-robot-collisions](https://github.com/himansh077/Leetcode-sol/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/himansh077/Leetcode-sol/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/himansh077/Leetcode-sol/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/himansh077/Leetcode-sol/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/himansh077/Leetcode-sol/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/himansh077/Leetcode-sol/tree/master/2463-minimum-total-distance-traveled) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
 | [2751-robot-collisions](https://github.com/himansh077/Leetcode-sol/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/himansh077/Leetcode-sol/tree/master/2784-check-if-array-is-good) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/himansh077/Leetcode-sol/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/himansh077/Leetcode-sol/tree/master/3433-count-mentions-per-user) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/himansh077/Leetcode-sol/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/himansh077/Leetcode-sol/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/himansh077/Leetcode-sol/tree/master/2402-meeting-rooms-iii) |
 | [2615-sum-of-distances](https://github.com/himansh077/Leetcode-sol/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/himansh077/Leetcode-sol/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3488-closest-equal-element-queries) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/himansh077/Leetcode-sol/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/himansh077/Leetcode-sol/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
