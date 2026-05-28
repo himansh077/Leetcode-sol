@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/himansh077/Leetcode-sol/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/himansh077/Leetcode-sol/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/himansh077/Leetcode-sol/tree/master/2833-furthest-point-from-origin) |
+| [3093-longest-common-suffix-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/himansh077/Leetcode-sol/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/himansh077/Leetcode-sol/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/himansh077/Leetcode-sol/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3093-longest-common-suffix-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3093-longest-common-suffix-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/himansh077/Leetcode-sol/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/himansh077/Leetcode-sol/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himansh077/Leetcode-sol/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/himansh077/Leetcode-sol/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3093-longest-common-suffix-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3093-longest-common-suffix-queries) |
 ## String Matching
 |  |
 | ------- |
