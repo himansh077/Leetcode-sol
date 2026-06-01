@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/himansh077/Leetcode-sol/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/himansh077/Leetcode-sol/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/himansh077/Leetcode-sol/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himansh077/Leetcode-sol/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/himansh077/Leetcode-sol/tree/master/2402-meeting-rooms-iii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/himansh077/Leetcode-sol/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/himansh077/Leetcode-sol/tree/master/2463-minimum-total-distance-traveled) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himansh077/Leetcode-sol/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/himansh077/Leetcode-sol/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/himansh077/Leetcode-sol/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himansh077/Leetcode-sol/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/himansh077/Leetcode-sol/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himansh077/Leetcode-sol/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/himansh077/Leetcode-sol/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/himansh077/Leetcode-sol/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/himansh077/Leetcode-sol/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himansh077/Leetcode-sol/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/himansh077/Leetcode-sol/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/himansh077/Leetcode-sol/tree/master/2463-minimum-total-distance-traveled) |
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
