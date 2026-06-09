@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/himansh077/Leetcode-sol/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/himansh077/Leetcode-sol/tree/master/0905-sort-array-by-parity) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himansh077/Leetcode-sol/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/himansh077/Leetcode-sol/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/himansh077/Leetcode-sol/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/himansh077/Leetcode-sol/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/himansh077/Leetcode-sol/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/himansh077/Leetcode-sol/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/himansh077/Leetcode-sol/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himansh077/Leetcode-sol/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/himansh077/Leetcode-sol/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/himansh077/Leetcode-sol/tree/master/2402-meeting-rooms-iii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/himansh077/Leetcode-sol/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/himansh077/Leetcode-sol/tree/master/2463-minimum-total-distance-traveled) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/himansh077/Leetcode-sol/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/himansh077/Leetcode-sol/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/himansh077/Leetcode-sol/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/himansh077/Leetcode-sol/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/himansh077/Leetcode-sol/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/himansh077/Leetcode-sol/tree/master/2751-robot-collisions) |
