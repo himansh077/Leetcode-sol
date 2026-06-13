@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/himansh077/Leetcode-sol/tree/master/2833-furthest-point-from-origin) |
 | [3093-longest-common-suffix-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/himansh077/Leetcode-sol/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3838-weighted-word-mapping](https://github.com/himansh077/Leetcode-sol/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himansh077/Leetcode-sol/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/himansh077/Leetcode-sol/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himansh077/Leetcode-sol/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/himansh077/Leetcode-sol/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/himansh077/Leetcode-sol/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/himansh077/Leetcode-sol/tree/master/2751-robot-collisions) |
 | [3433-count-mentions-per-user](https://github.com/himansh077/Leetcode-sol/tree/master/3433-count-mentions-per-user) |
+| [3838-weighted-word-mapping](https://github.com/himansh077/Leetcode-sol/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |
 | ------- |
