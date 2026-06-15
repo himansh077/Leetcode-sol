@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/himansh077/Leetcode-sol/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/himansh077/Leetcode-sol/tree/master/0905-sort-array-by-parity) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himansh077/Leetcode-sol/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/himansh077/Leetcode-sol/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/himansh077/Leetcode-sol/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/himansh077/Leetcode-sol/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/himansh077/Leetcode-sol/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/himansh077/Leetcode-sol/tree/master/0023-merge-k-sorted-lists) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/himansh077/Leetcode-sol/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
