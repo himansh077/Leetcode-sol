@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/himansh077/Leetcode-sol/tree/master/2833-furthest-point-from-origin) |
 | [3093-longest-common-suffix-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/himansh077/Leetcode-sol/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/himansh077/Leetcode-sol/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/himansh077/Leetcode-sol/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/himansh077/Leetcode-sol/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/himansh077/Leetcode-sol/tree/master/2751-robot-collisions) |
 | [3433-count-mentions-per-user](https://github.com/himansh077/Leetcode-sol/tree/master/3433-count-mentions-per-user) |
+| [3612-process-string-with-special-operations-i](https://github.com/himansh077/Leetcode-sol/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/himansh077/Leetcode-sol/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |
