@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/himansh077/Leetcode-sol/tree/master/0932-beautiful-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/himansh077/Leetcode-sol/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1288-remove-covered-intervals](https://github.com/himansh077/Leetcode-sol/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/himansh077/Leetcode-sol/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/himansh077/Leetcode-sol/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himansh077/Leetcode-sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/himansh077/Leetcode-sol/tree/master/0018-4sum) |
 | [0324-wiggle-sort-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0324-wiggle-sort-ii) |
 | [0905-sort-array-by-parity](https://github.com/himansh077/Leetcode-sol/tree/master/0905-sort-array-by-parity) |
+| [1288-remove-covered-intervals](https://github.com/himansh077/Leetcode-sol/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/himansh077/Leetcode-sol/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himansh077/Leetcode-sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himansh077/Leetcode-sol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
