@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/himansh077/Leetcode-sol/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/himansh077/Leetcode-sol/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/himansh077/Leetcode-sol/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1301-number-of-paths-with-max-score](https://github.com/himansh077/Leetcode-sol/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/himansh077/Leetcode-sol/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/himansh077/Leetcode-sol/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/himansh077/Leetcode-sol/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/himansh077/Leetcode-sol/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1288-remove-covered-intervals](https://github.com/himansh077/Leetcode-sol/tree/master/1288-remove-covered-intervals) |
+| [1301-number-of-paths-with-max-score](https://github.com/himansh077/Leetcode-sol/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/himansh077/Leetcode-sol/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/himansh077/Leetcode-sol/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himansh077/Leetcode-sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/himansh077/Leetcode-sol/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/himansh077/Leetcode-sol/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/himansh077/Leetcode-sol/tree/master/0840-magic-squares-in-grid) |
+| [1301-number-of-paths-with-max-score](https://github.com/himansh077/Leetcode-sol/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himansh077/Leetcode-sol/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/himansh077/Leetcode-sol/tree/master/1582-special-positions-in-a-binary-matrix) |
