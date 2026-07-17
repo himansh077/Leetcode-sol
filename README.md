@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-make-array-empty](https://github.com/himansh077/Leetcode-sol/tree/master/2659-make-array-empty) |
 | [3161-block-placement-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himansh077/Leetcode-sol/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/himansh077/Leetcode-sol/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/himansh077/Leetcode-sol/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/himansh077/Leetcode-sol/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/himansh077/Leetcode-sol/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himansh077/Leetcode-sol/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/himansh077/Leetcode-sol/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/himansh077/Leetcode-sol/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3433-count-mentions-per-user](https://github.com/himansh077/Leetcode-sol/tree/master/3433-count-mentions-per-user) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himansh077/Leetcode-sol/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/himansh077/Leetcode-sol/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himansh077/Leetcode-sol/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/himansh077/Leetcode-sol/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3433-count-mentions-per-user](https://github.com/himansh077/Leetcode-sol/tree/master/3433-count-mentions-per-user) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/himansh077/Leetcode-sol/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/himansh077/Leetcode-sol/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/himansh077/Leetcode-sol/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/himansh077/Leetcode-sol/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3488-closest-equal-element-queries) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/himansh077/Leetcode-sol/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/himansh077/Leetcode-sol/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himansh077/Leetcode-sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/himansh077/Leetcode-sol/tree/master/2833-furthest-point-from-origin) |
+| [3312-sorted-gcd-pair-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/himansh077/Leetcode-sol/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
@@ -545,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/himansh077/Leetcode-sol/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/himansh077/Leetcode-sol/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/himansh077/Leetcode-sol/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/himansh077/Leetcode-sol/tree/master/3546-equal-sum-grid-partition-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/himansh077/Leetcode-sol/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/himansh077/Leetcode-sol/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -627,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/himansh077/Leetcode-sol/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/himansh077/Leetcode-sol/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Counting Sort
@@ -637,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/himansh077/Leetcode-sol/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
