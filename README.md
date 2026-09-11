@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/himansh077/Leetcode-sol/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3433-count-mentions-per-user](https://github.com/himansh077/Leetcode-sol/tree/master/3433-count-mentions-per-user) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/himansh077/Leetcode-sol/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3483-unique-3-digit-even-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/himansh077/Leetcode-sol/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/himansh077/Leetcode-sol/tree/master/3546-equal-sum-grid-partition-i) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/himansh077/Leetcode-sol/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/himansh077/Leetcode-sol/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/himansh077/Leetcode-sol/tree/master/3488-closest-equal-element-queries) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/himansh077/Leetcode-sol/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/himansh077/Leetcode-sol/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0044-wildcard-matching) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/himansh077/Leetcode-sol/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/himansh077/Leetcode-sol/tree/master/1925-count-square-sum-triples) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/himansh077/Leetcode-sol/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/himansh077/Leetcode-sol/tree/master/3546-equal-sum-grid-partition-i) |
 ## Linked List
 |  |
