@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/himansh077/Leetcode-sol/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/himansh077/Leetcode-sol/tree/master/0050-powx-n) |
 | [0396-rotate-function](https://github.com/himansh077/Leetcode-sol/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/himansh077/Leetcode-sol/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/himansh077/Leetcode-sol/tree/master/0788-rotated-digits) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/himansh077/Leetcode-sol/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/himansh077/Leetcode-sol/tree/master/0050-powx-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/himansh077/Leetcode-sol/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/himansh077/Leetcode-sol/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
